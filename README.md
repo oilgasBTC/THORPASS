@@ -14,7 +14,7 @@ Totally valid. Right now, Thorchain lacks a native way to coordinate with node o
 * No contact or messaging system
 * No formal, off-chain directory of operators who are open to coordination
 
-This is exactly what **THORPASS** is designed to solve — without compromising decentralization, privacy, or wallet UX.
+**THORPASS** is designed to solve — without compromising decentralization, privacy, or wallet UX.
 
 ---
 
